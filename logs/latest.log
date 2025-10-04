@@ -1,0 +1,286 @@
+[02:56:34] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[02:56:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:56:40] [ServerMain/INFO]: Loaded 1461 recipes
+[02:56:40] [ServerMain/INFO]: Loaded 1574 advancements
+[02:56:42] [Server thread/INFO]: Starting minecraft server version 1.21.9
+[02:56:42] [Server thread/INFO]: Loading properties
+[02:56:42] [Server thread/INFO]: Default game type: SURVIVAL
+[02:56:42] [Server thread/INFO]: Generating keypair
+[02:56:42] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: 핸들이 잘못되었습니다
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:186) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at aro$1.run(SourceFile:189) [server-1.21.9.jar:?]
+[02:56:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:56:42] [Server thread/INFO]: Using default channel type
+[02:56:42] [Server thread/INFO]: Preparing level "world"
+[02:56:42] [Server thread/INFO]: Loading 0 persistent chunks...
+[02:56:42] [Server thread/INFO]: Preparing spawn area: 100%
+[02:56:42] [Server thread/INFO]: Time elapsed: 12 ms
+[02:56:42] [Server thread/INFO]: Done (0.323s)! For help, type "help"
+[02:57:00] [User Authenticator #1/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[02:57:01] [Server thread/INFO]: padarkpadark[/218.237.158.156:60659] logged in with entity id 17 at (331.2222048575452, 72.0, 796.9818771944977)
+[02:57:01] [Server thread/INFO]: padarkpadark joined the game
+[02:57:17] [User Authenticator #2/INFO]: UUID of player Hi_ve is e06aa45c-747c-4e08-ace9-167a90352ff5
+[02:57:18] [Server thread/INFO]: Hi_ve[/127.0.0.1:2356] logged in with entity id 423 at (-255.6715405853479, 68.84375002384186, 593.4405553166717)
+[02:57:18] [Server thread/INFO]: Hi_ve joined the game
+[02:57:21] [User Authenticator #3/INFO]: UUID of player Ni_Nb is 391f8b55-c44e-4c0f-90ad-eaad1d0da64b
+[02:57:22] [Server thread/INFO]: Ni_Nb[/125.141.46.73:9150] logged in with entity id 858 at (-141.6347210445064, 69.0, 58.9080265480692)
+[02:57:22] [Server thread/INFO]: Ni_Nb joined the game
+[02:57:26] [User Authenticator #4/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[02:57:26] [Server thread/INFO]: Honey__v[/61.105.16.176:54507] logged in with entity id 1103 at (311.63394787524595, 81.0, 543.637431532811)
+[02:57:26] [Server thread/INFO]: Honey__v joined the game
+[03:01:19] [Server thread/INFO]: Hi_ve lost connection: Disconnected
+[03:01:19] [Server thread/INFO]: Hi_ve left the game
+[03:01:20] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:01:20] [Server thread/INFO]: padarkpadark left the game
+[03:01:21] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[03:01:21] [Server thread/INFO]: Honey__v left the game
+[03:01:25] [User Authenticator #5/INFO]: UUID of player Hi_ve is e06aa45c-747c-4e08-ace9-167a90352ff5
+[03:01:25] [Server thread/INFO]: Hi_ve[/127.0.0.1:10610] logged in with entity id 6142 at (-128.05226281462308, 80.84375002384186, 571.2822668513505)
+[03:01:25] [Server thread/INFO]: Hi_ve joined the game
+[03:01:25] [User Authenticator #6/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:01:25] [Server thread/INFO]: padarkpadark[/218.237.158.156:60929] logged in with entity id 6265 at (407.7467485710146, 17.0, 943.8992544120784)
+[03:01:25] [Server thread/INFO]: padarkpadark joined the game
+[03:01:25] [User Authenticator #7/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[03:01:26] [Server thread/INFO]: Honey__v[/61.105.16.176:54151] logged in with entity id 6368 at (-93.02624665761954, 64.84375002384186, 468.2116099323802)
+[03:01:26] [Server thread/INFO]: Honey__v joined the game
+[03:02:06] [Server thread/INFO]: padarkpadark has made the advancement [Suit Up]
+[03:02:38] [Server thread/WARN]: Horse (vehicle of Honey__v) moved wrongly! 0.34342900387403574
+[03:02:38] [Server thread/WARN]: Horse (vehicle of Honey__v) moved wrongly! 0.39264337096335566
+[03:11:52] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:11:52] [Server thread/INFO]: padarkpadark left the game
+[03:11:58] [User Authenticator #8/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:11:58] [Server thread/INFO]: padarkpadark[/218.237.158.156:61631] logged in with entity id 16720 at (713.7331472967758, 104.0, 1268.5840912217639)
+[03:11:58] [Server thread/INFO]: padarkpadark joined the game
+[03:11:59] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:11:59] [Server thread/INFO]: padarkpadark left the game
+[03:12:00] [User Authenticator #9/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:12:00] [Server thread/INFO]: padarkpadark[/218.237.158.156:61637] logged in with entity id 16861 at (713.7331472967758, 104.0, 1268.5840912217639)
+[03:12:00] [Server thread/INFO]: padarkpadark joined the game
+[03:12:01] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:12:01] [Server thread/INFO]: padarkpadark left the game
+[03:12:02] [User Authenticator #10/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:12:02] [Server thread/INFO]: padarkpadark[/218.237.158.156:61642] logged in with entity id 16987 at (713.7331472967758, 104.0, 1268.5840912217639)
+[03:12:02] [Server thread/INFO]: padarkpadark joined the game
+[03:12:03] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:12:03] [Server thread/INFO]: padarkpadark left the game
+[03:12:05] [Server thread/INFO]: Hi_ve lost connection: Disconnected
+[03:12:05] [Server thread/INFO]: Hi_ve left the game
+[03:12:07] [User Authenticator #11/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:12:07] [Server thread/INFO]: padarkpadark[/218.237.158.156:61650] logged in with entity id 17137 at (713.7331472967758, 104.0, 1268.5840912217639)
+[03:12:07] [Server thread/INFO]: padarkpadark joined the game
+[03:12:07] [User Authenticator #12/INFO]: UUID of player Hi_ve is e06aa45c-747c-4e08-ace9-167a90352ff5
+[03:12:07] [Server thread/INFO]: Hi_ve[/127.0.0.1:6724] logged in with entity id 17168 at (-141.9190328629209, 69.0, 50.29260201137005)
+[03:12:07] [Server thread/INFO]: Hi_ve joined the game
+[03:23:15] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[03:23:15] [Server thread/INFO]: Honey__v left the game
+[03:23:15] [Server thread/INFO]: Ni_Nb lost connection: Disconnected
+[03:23:15] [Server thread/INFO]: Ni_Nb left the game
+[03:23:21] [User Authenticator #13/INFO]: UUID of player Ni_Nb is 391f8b55-c44e-4c0f-90ad-eaad1d0da64b
+[03:23:21] [Server thread/INFO]: Ni_Nb[/125.141.46.73:4737] logged in with entity id 27522 at (-925.4579842225986, 42.0, 322.63630998164575)
+[03:23:21] [Server thread/INFO]: Ni_Nb joined the game
+[03:23:21] [User Authenticator #14/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[03:23:21] [Server thread/INFO]: Honey__v[/61.105.16.176:56143] logged in with entity id 27628 at (7.008369521926791, 61.84375002384186, 586.3514457915919)
+[03:23:21] [Server thread/INFO]: Honey__v joined the game
+[03:25:24] [Server thread/INFO]: <Ni_Nb> 집 좌표 plz
+[03:25:33] [Server thread/INFO]: <Hi_ve> -146 69 45
+[03:25:44] [Server thread/INFO]: <Ni_Nb> luv u
+[03:25:49] [Server thread/INFO]: <Hi_ve> fu
+[03:25:53] [Server thread/INFO]: <Ni_Nb> ?
+[03:26:24] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:26:24] [Server thread/INFO]: padarkpadark left the game
+[03:26:32] [User Authenticator #15/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:26:32] [Server thread/INFO]: padarkpadark[/218.237.158.156:62701] logged in with entity id 30500 at (297.55899480933545, 28.39519512849305, 46.5636289666501)
+[03:26:32] [Server thread/INFO]: padarkpadark joined the game
+[03:26:33] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:26:33] [Server thread/INFO]: padarkpadark left the game
+[03:26:34] [User Authenticator #16/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:26:35] [Server thread/INFO]: padarkpadark[/218.237.158.156:62707] logged in with entity id 30600 at (297.341645751459, 28.52464576861062, 46.654188964921794)
+[03:26:35] [Server thread/INFO]: padarkpadark joined the game
+[03:26:36] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:26:36] [Server thread/INFO]: padarkpadark left the game
+[03:26:45] [User Authenticator #17/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:26:45] [Server thread/INFO]: padarkpadark[/218.237.158.156:62727] logged in with entity id 30830 at (296.9583608287019, 28.817855559223975, 46.81605315722606)
+[03:26:45] [Server thread/INFO]: padarkpadark joined the game
+[03:26:48] [Server thread/INFO]: padarkpadark tried to swim in lava
+[03:32:22] [Server thread/INFO]: Hi_ve has made the advancement [The Parrots and the Bats]
+[03:32:48] [Server thread/INFO]: <Hi_ve> -146 69 45
+[03:33:56] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[03:33:56] [Server thread/INFO]: Honey__v left the game
+[03:33:56] [Server thread/INFO]: Ni_Nb lost connection: Disconnected
+[03:33:56] [Server thread/INFO]: Ni_Nb left the game
+[03:34:01] [User Authenticator #18/INFO]: UUID of player Ni_Nb is 391f8b55-c44e-4c0f-90ad-eaad1d0da64b
+[03:34:02] [Server thread/INFO]: Ni_Nb[/125.141.46.73:6459] logged in with entity id 40143 at (-1011.3376291193256, 21.0, 280.4408422628664)
+[03:34:02] [Server thread/INFO]: Ni_Nb joined the game
+[03:34:04] [User Authenticator #19/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[03:34:05] [Server thread/INFO]: Honey__v[/61.105.16.176:62388] logged in with entity id 40463 at (74.43637323278573, 65.84375002384186, 572.8317311109812)
+[03:34:05] [Server thread/INFO]: Honey__v joined the game
+[03:39:13] [Server thread/INFO]: Ni_Nb has made the advancement [Minecraft: Trial(s) Edition]
+[03:41:22] [Netty Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.9.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.9.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.9.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.9.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.9.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.9.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.9.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.9.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.9.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.9.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+[03:44:25] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[03:44:25] [Server thread/INFO]: Honey__v left the game
+[03:44:26] [Server thread/INFO]: Ni_Nb lost connection: Disconnected
+[03:44:26] [Server thread/INFO]: Ni_Nb left the game
+[03:44:31] [User Authenticator #20/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[03:44:31] [Server thread/INFO]: Honey__v[/61.105.16.176:62531] logged in with entity id 48883 at (59.68801435478318, 78.0, 257.9331733749316)
+[03:44:31] [Server thread/INFO]: Honey__v joined the game
+[03:44:32] [User Authenticator #21/INFO]: UUID of player Ni_Nb is 391f8b55-c44e-4c0f-90ad-eaad1d0da64b
+[03:44:33] [Server thread/INFO]: Ni_Nb[/125.141.46.73:4245] logged in with entity id 49112 at (-1067.550277734693, 77.0, 315.4818338879996)
+[03:44:33] [Server thread/INFO]: Ni_Nb joined the game
+[03:44:34] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[03:44:34] [Server thread/INFO]: Honey__v left the game
+[03:44:51] [User Authenticator #22/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[03:44:52] [Server thread/INFO]: Honey__v[/61.105.16.176:62537] logged in with entity id 49574 at (65.69999998807907, 71.0, 256.77821215436785)
+[03:44:52] [Server thread/INFO]: Honey__v joined the game
+[03:48:56] [Server thread/INFO]: Honey__v has made the advancement [Ice Bucket Challenge]
+[03:50:34] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:50:34] [Server thread/INFO]: padarkpadark left the game
+[03:50:43] [User Authenticator #23/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:50:44] [Server thread/INFO]: padarkpadark[/218.237.158.156:64327] logged in with entity id 55517 at (496.549020879412, 82.55270834865392, 565.4500037749552)
+[03:50:44] [Server thread/INFO]: padarkpadark joined the game
+[03:50:44] [Server thread/INFO]: padarkpadark tried to swim in lava
+[03:55:23] [Server thread/INFO]: <Hi_ve> naga
+[03:55:24] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[03:55:24] [Server thread/INFO]: padarkpadark left the game
+[03:55:32] [User Authenticator #24/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[03:55:32] [Server thread/INFO]: padarkpadark[/218.237.158.156:64665] logged in with entity id 59429 at (-78.06890198910773, 61.71348779555437, -209.9512380580486)
+[03:55:32] [Server thread/INFO]: padarkpadark joined the game
+[03:55:33] [Server thread/INFO]: <Ni_Nb> nigga
+[03:55:58] [Server thread/INFO]: <Ni_Nb> 당근.
+[03:59:16] [Server thread/INFO]: Ni_Nb has made the advancement [Ice Bucket Challenge]
+[04:00:50] [Server thread/INFO]: <Ni_Nb> -741 64 718 마을
+[04:05:53] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[04:05:53] [Server thread/INFO]: Honey__v left the game
+[04:05:54] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[04:05:54] [Server thread/INFO]: padarkpadark left the game
+[04:05:58] [User Authenticator #25/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[04:05:58] [Server thread/INFO]: padarkpadark[/218.237.158.156:65355] logged in with entity id 70241 at (498.69627271343614, 62.11076431274413, -541.9813929955538)
+[04:05:58] [Server thread/INFO]: padarkpadark joined the game
+[04:06:11] [User Authenticator #26/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[04:06:11] [Server thread/INFO]: Honey__v[/61.105.16.176:61263] logged in with entity id 70760 at (-40.516634603984215, 17.0, 183.9563671023168)
+[04:06:11] [Server thread/INFO]: Honey__v joined the game
+[04:10:30] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[04:10:30] [Server thread/INFO]: Honey__v left the game
+[04:10:34] [User Authenticator #27/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[04:10:34] [Server thread/INFO]: Honey__v[/61.105.16.176:61339] logged in with entity id 75138 at (-33.470075865370546, 32.3249998480064, 104.40394416159238)
+[04:10:34] [Server thread/INFO]: Honey__v joined the game
+[04:10:36] [Server thread/INFO]: Honey__v drowned
+[04:10:52] [Server thread/INFO]: <Ni_Nb> ㅠㅠ
+[04:13:24] [Server thread/INFO]: Honey__v drowned
+[04:13:29] [Server thread/INFO]: <Ni_Nb> 당근 12개 확보!!
+[04:13:47] [Server thread/INFO]: <Ni_Nb> 5분
+[04:17:06] [Server thread/INFO]: Hi_ve has made the advancement [Not Today, Thank You]
+[04:17:19] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[04:17:19] [Server thread/INFO]: Honey__v left the game
+[04:17:22] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[04:17:22] [Server thread/INFO]: padarkpadark left the game
+[04:17:24] [Server thread/INFO]: Hi_ve lost connection: Disconnected
+[04:17:24] [Server thread/INFO]: Hi_ve left the game
+[04:17:26] [User Authenticator #28/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[04:17:26] [Server thread/INFO]: padarkpadark[/218.237.158.156:49729] logged in with entity id 82286 at (785.4869039508948, 16.0, -1173.8545418853566)
+[04:17:26] [Server thread/INFO]: padarkpadark joined the game
+[04:17:27] [User Authenticator #29/INFO]: UUID of player Hi_ve is e06aa45c-747c-4e08-ace9-167a90352ff5
+[04:17:28] [Server thread/INFO]: Hi_ve[/127.0.0.1:1060] logged in with entity id 82587 at (-124.30000001192093, 64.0, 453.0403088714503)
+[04:17:28] [Server thread/INFO]: Hi_ve joined the game
+[04:17:35] [User Authenticator #30/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[04:17:35] [Server thread/INFO]: Honey__v[/61.105.16.176:61441] logged in with entity id 83001 at (-46.48750001192093, 35.0, 110.57027891964594)
+[04:17:35] [Server thread/INFO]: Honey__v joined the game
+[04:19:02] [Server thread/INFO]: Honey__v drowned
+[04:28:16] [Server thread/INFO]: Hi_ve lost connection: Disconnected
+[04:28:16] [Server thread/INFO]: Hi_ve left the game
+[04:28:19] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[04:28:19] [Server thread/INFO]: Honey__v left the game
+[04:28:26] [User Authenticator #31/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[04:28:26] [Server thread/INFO]: <Ni_Nb> nigga
+[04:28:26] [Server thread/INFO]: Honey__v[/61.105.16.176:55336] logged in with entity id 92646 at (-80.89860885281918, 68.0, 91.45999256217915)
+[04:28:26] [Server thread/INFO]: Honey__v joined the game
+[04:28:29] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[04:28:29] [Server thread/INFO]: Honey__v left the game
+[04:28:34] [Server thread/INFO]: padarkpadark lost connection: Disconnected
+[04:28:34] [Server thread/INFO]: padarkpadark left the game
+[04:28:36] [Server thread/INFO]: <Ni_Nb> rr
+[04:28:37] [User Authenticator #32/INFO]: UUID of player padarkpadark is 3d0f31e0-88fc-4866-a377-3029f8fd5ca8
+[04:28:37] [Server thread/INFO]: padarkpadark[/218.237.158.156:50479] logged in with entity id 92799 at (662.4458396373722, -19.0, -1108.2807245165823)
+[04:28:37] [Server thread/INFO]: padarkpadark joined the game
+[04:28:39] [User Authenticator #33/INFO]: UUID of player Hi_ve is e06aa45c-747c-4e08-ace9-167a90352ff5
+[04:28:39] [Server thread/INFO]: Hi_ve[/127.0.0.1:2203] logged in with entity id 92947 at (-104.13094126622276, 67.0, 10.300000011920929)
+[04:28:39] [Server thread/INFO]: Hi_ve joined the game
+[04:28:41] [User Authenticator #34/INFO]: UUID of player Honey__v is 81d79c41-0462-4c8c-849c-3aef9d7ee6a5
+[04:28:41] [Server thread/INFO]: Honey__v[/61.105.16.176:55344] logged in with entity id 93094 at (-84.21626791067108, 68.0, 85.70068416444288)
+[04:28:41] [Server thread/INFO]: Honey__v joined the game
+[04:36:29] [Server thread/INFO]: Ni_Nb has made the advancement [We Need to Go Deeper]
+[04:39:21] [Server thread/INFO]: <Ni_Nb> 내 배위에 잔다
+[04:40:11] [Server thread/INFO]: Honey__v lost connection: Disconnected
+[04:40:11] [Server thread/INFO]: Honey__v left the game
+[04:43:09] [Server thread/INFO]: Ni_Nb lost connection: Disconnected
+[04:43:09] [Server thread/INFO]: Ni_Nb left the game
+[04:45:08] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[04:45:08] [Server thread/INFO]: save<--[HERE]
+[04:45:10] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[04:45:10] [Server thread/INFO]: save<--[HERE]
+[04:45:13] [Server thread/INFO]: Stopping the server
+[04:45:13] [Server thread/INFO]: Stopping server
+[04:45:13] [Server thread/INFO]: Saving players
+[04:45:13] [Server thread/INFO]: padarkpadark lost connection: Server closed
+[04:45:13] [Server thread/INFO]: padarkpadark left the game
+[04:45:13] [Server thread/INFO]: Saving worlds
+[04:45:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:45:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:45:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:45:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:45:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:45:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:45:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
